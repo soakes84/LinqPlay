@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqPlay", "LinqPlay\LinqPlay.csproj", "{D29C141E-37F2-4944-9D5A-46B534161FFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D29C141E-37F2-4944-9D5A-46B534161FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D29C141E-37F2-4944-9D5A-46B534161FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D29C141E-37F2-4944-9D5A-46B534161FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D29C141E-37F2-4944-9D5A-46B534161FFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
